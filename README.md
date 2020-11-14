@@ -1,1 +1,1 @@
-# tittanic-datastet
+# Titanic-datastet
